@@ -1,0 +1,42 @@
+/home page/
+
+header{
+	text-align: center;
+}
+	
+body{
+	font-size:15px;
+	font-family: Arial;
+	margin: 20px;
+	background-image: url("fresh-coffee-steams-wooden-table-close-up-generative-ai.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1300px 1200px;
+
+}
+
+
+.menu{
+	width:450px;
+	font-size:15px;
+	font-family: Arial;
+	margin: auto;
+	padding:5px;
+	background-color:#ddb886;
+	
+	
+}
+
+.price{
+	margin:400px;
+	
+
+}
+
+footer{
+	text-align: center;
+}
+
+img{
+
+margin-left:170px}
